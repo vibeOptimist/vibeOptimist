@@ -20,3 +20,4 @@
 ### 📬 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/tankist0701)
 [![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?logo=x&logoColor=white)](https://twitter.com/DanilaVibe)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30917213)
