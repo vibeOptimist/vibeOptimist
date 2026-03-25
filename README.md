@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Danila! 👋
 
-<!--
-**vibeOptimist/vibeOptimist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A beginner in development from Russia.  
+🌍 I know the programming languages Python and Java.  
+🚀 I am open for communication.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibeOptimist&show_icons=true)
+
+---
+
+### 📬 Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/tankist0701)
+[![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?logo=x&logoColor=white)](https://twitter.com/DanilaVibe)
